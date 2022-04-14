@@ -70,9 +70,6 @@ li:first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-
-.weather-temperature .inactive {
-  color: black;
-  cursor: default;
+.sofieb {
   text-decoration: none;
 }
